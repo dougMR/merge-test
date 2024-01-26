@@ -1,1 +1,2 @@
 This is the beginning of file editing for my project to learn branching and merging.
+Here's a new line after my first commit.
